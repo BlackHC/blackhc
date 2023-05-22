@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# 🎓 Andreas 'blackhc' Kirsch
-DPhil Student (AIMS CDT) in Machine Learning at OATML & Clarendon Scholar  
+I'm PhD Student ([AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning at [OATML](https://oatml.cs.ox.ac.uk/) (at the University of Oxford). Here is my quick online CV 🤗
 
 [![https://www.blackhc.net](https://img.shields.io/badge/www.blackhc.net-%231DA1F2.svg?style=flat)](https://www.blackhc.net)</button>
 [![@blackhc](https://img.shields.io/badge/@blackhc-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/@blackhc)
