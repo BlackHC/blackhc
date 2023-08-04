@@ -9,24 +9,17 @@ I'm PhD Student ([AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning 
 
 ------
 
-## 🎓 Education
+<details markdown>
+<summary markdown>
+  
+## 🎓 Education & 💼 Industry Experience
+
+</summary>
+
 1. ### DPhil Computer Science
    **University of Oxford**, supervised by Prof Yarin Gal, _Oxford, UK, Oct 2018 -- Summer 2023__  
    Deep active learning and data subset selection using information theory and Bayesian neural networks.
 
-2. ### MSc Computer Science
-   **Technische Universität München**, _München, DE, Sep 2009 -- Oct 2012_  
-   Thesis “[Assisted Object Placement](http://blog.blackhc.net/projects/university/msc-thesis-assisted-object-placement/)”.
-
-3. ### BSc Mathematics
-   **Technische Universität München**, _München, DE, Sep 2009 -- Mar 2012_  
-   Thesis “[Discrete Elastic Rods](http://blog.blackhc.net/projects/university/bsc-thesis-discrete-elastic-rods/)”.
-
-4. ### BSc Computer Science
-   **Technische Universität München**, _München, DE, Sep 2007 -- Sep 2009_  
-   Thesis “[Multi-Tile Terrain Rendering with OGL/Equalizer](http://stuff.blackhc.net/publications/cg_bsc_thesis.pdf)”.
-
-## 💼 Industry Experience
 1. ### Research Engineer (Intern)
    **Opal Camera**, _Remote, Oct 2022 -- Dec 2022_  
    Validation Pipeline for Gesture Control System.
@@ -43,10 +36,28 @@ I'm PhD Student ([AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning 
    **Google**, _Zürich, CH, Jul 2013 -- Sep 2016_  
    App & testing infrastructure; latency optimization; front-end development (Dart/GWT).
 
------
+3. ### MSc Computer Science
+   **Technische Universität München**, _München, DE, Sep 2009 -- Oct 2012_  
+   Thesis “[Assisted Object Placement](http://blog.blackhc.net/projects/university/msc-thesis-assisted-object-placement/)”.
 
-## 📚 Publications
-1. ### Conference Proceedings
+4. ### BSc Mathematics
+   **Technische Universität München**, _München, DE, Sep 2009 -- Mar 2012_  
+   Thesis “[Discrete Elastic Rods](http://blog.blackhc.net/projects/university/bsc-thesis-discrete-elastic-rods/)”.
+
+5. ### BSc Computer Science
+   **Technische Universität München**, _München, DE, Sep 2007 -- Sep 2009_  
+   Thesis “[Multi-Tile Terrain Rendering with OGL/Equalizer](http://stuff.blackhc.net/publications/cg_bsc_thesis.pdf)”.
+</details>
+<details>
+<summary>
+  
+## 🧑‍🔬 Research
+
+</summary>
+
+### 📚 Publications
+
+1. #### Conference Proceedings
 
 [\[1\]](https://arxiv.org/abs/2102.11582) J. Mukhoti<sup>\*</sup>, **A.
 Kirsch**<sup>\*</sup>, J. van Amersfoort, P. H. Torr, and Y. Gal, "*Deterministic
@@ -129,3 +140,6 @@ NeurIPS 2019 (Top Reviewer), AAAI 2020, AAAI 2021, ICLR 2021, NeurIPS 2021 (Outs
 
 ## 🎯 Interests & Skills
 Active Learning, Subset Selection, Information Theory, Information Bottlenecks, Uncertainty Quantification, Python, PyTorch, Jax, C++, CUDA, TensorFlow.
+</details>
+
+-----
