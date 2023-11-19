@@ -69,7 +69,7 @@ Kirsch**<sup>\*</sup>, S. Farquhar, Y. Gal, A. Foster, and T. Rainforth,
 "*Prediction-Oriented Bayesian Active Learning*," AISTATS, 2023.
 
 [\[3\]](https://proceedings.mlr.press/v162/mindermann22a.) S.
-Mindermann<sup>\*</sup>, J. M. Brauner<sup>\*</sup>, M. T. Razzak<sup>\*</sup>, et al.,
+Mindermann<sup>\*</sup>, J. M. Brauner<sup>\*</sup>, M. T. Razzak<sup>\*</sup>, **A. Kirsch**, et al.,
 "*Prioritized Training on Points that are Learnable, Worth Learning, and
 not yet Learnt*," ICML, 2022.
 
@@ -86,7 +86,7 @@ Acquisition for Deep Bayesian Active Learning*," NeurIPS, 2019.
 
 [\[6\]](https://arxiv.org/abs/2302.08981) **A. Kirsch**, "*Black-Box Batch Active Learning for Regression*", TMLR, 2023.
 
-[\[7\]](https://arxiv.org/abs/2303.14753) **A. Kirsch**, "*	Does ‘Deep Learning on a Data Diet’ reproduce? Overall yes, but GraNd at Initialization does not*", TMLR, 2023.
+[\[7\]](https://arxiv.org/abs/2303.14753) **A. Kirsch**, "*Does ‘Deep Learning on a Data Diet’ reproduce? Overall yes, but GraNd at Initialization does not*", TMLR, 2023.
 
 [\[8\]](https://arxiv.org/abs/2106.12059) **A. Kirsch**<sup>\*</sup>, S. Farquhar<sup>\*</sup>, P. Atighehchian, A. Jesson, F. Branchaud-Charron, Y. Gal, "*Stochastic Batch Acquisition: A Simple Baseline for Deep Active Learning*", TMLR, 2023.
 
@@ -100,7 +100,7 @@ and Information-Theoretic Quantities*," TMLR, 2022.
 
 #### Workshop Papers
 
-[\11\]](https://openreview.net/forum?id=6x0gB9gOHFg) D. Tran, J. Liu, M.
+[\[11\]](https://openreview.net/forum?id=6x0gB9gOHFg) D. Tran, J. Liu, M.
 W. Dusenberry, et al., "*Plex: Towards Reliability using Pretrained
 Large Model Extensions*," Principles of Distribution Shifts & First
 Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward,
