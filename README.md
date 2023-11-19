@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm PhD Student ([AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning at [OATML](https://oatml.cs.ox.ac.uk/) (at the University of Oxford). Here is my quick online CV 🤗
+I have recently finished my PhD ("DPhil" with [AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning at [OATML](https://oatml.cs.ox.ac.uk/) (at the University of Oxford). Here is my quick online CV 🤗
 
 [![https://www.blackhc.net](https://img.shields.io/badge/www.blackhc.net-%231DA1F2.svg?style=flat)](https://www.blackhc.net)</button>
 [![@blackhc](https://img.shields.io/badge/@blackhc-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/@blackhc)
@@ -57,7 +57,7 @@ I'm PhD Student ([AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning 
 
 ### 📚 Publications
 
-1. #### Conference Proceedings
+#### Conference Proceedings
 
 [\[1\]](https://arxiv.org/abs/2102.11582) J. Mukhoti<sup>\*</sup>, **A.
 Kirsch**<sup>\*</sup>, J. van Amersfoort, P. H. Torr, and Y. Gal, "*Deterministic
@@ -82,59 +82,67 @@ from Observational Data*," NeurIPS, 2021.
 Amersfoort<sup>\*</sup>, and Y. Gal, "*BatchBALD: Efficient and Diverse Batch
 Acquisition for Deep Bayesian Active Learning*," NeurIPS, 2019.
 
-### Journal Articles {#journal-articles .unnumbered}
+#### Journal Articles
 
-[\[6\]](https://arxiv.org/abs/2202.01851) **A. Kirsch** and Y. Gal, "*A
+[\[6\]](https://arxiv.org/abs/2302.08981) **A. Kirsch**, "*Black-Box Batch Active Learning for Regression*", TMLR, 2023.
+
+[\[7\]](https://arxiv.org/abs/2303.14753) **A. Kirsch**, "*	Does ‘Deep Learning on a Data Diet’ reproduce? Overall yes, but GraNd at Initialization does not*", TMLR, 2023.
+
+[\[8\]](https://arxiv.org/abs/2106.12059) **A. Kirsch**<sup>\*</sup>, S. Farquhar<sup>\*</sup>, P. Atighehchian, A. Jesson, F. Branchaud-Charron, Y. Gal, "*Stochastic Batch Acquisition: A Simple Baseline for Deep Active Learning*", TMLR, 2023.
+
+[\[9\]](https://arxiv.org/abs/2202.01851) **A. Kirsch** and Y. Gal, "*A
 Note on "Assessing Generalization of SGD via Disagreement"*," TMLR,
 2022.
 
-[\[7\]](https://arxiv.org/abs/2208.00549) **A. Kirsch** and Y. Gal,
+[\[10\]](https://arxiv.org/abs/2208.00549) **A. Kirsch** and Y. Gal,
 "*Unifying Approaches in Data Subset Selection via Fisher Information
 and Information-Theoretic Quantities*," TMLR, 2022.
 
-### Workshop Papers {#workshop-papers .unnumbered}
+#### Workshop Papers
 
-[\[8\]](https://openreview.net/forum?id=6x0gB9gOHFg) D. Tran, J. Liu, M.
+[\11\]](https://openreview.net/forum?id=6x0gB9gOHFg) D. Tran, J. Liu, M.
 W. Dusenberry, et al., "*Plex: Towards Reliability using Pretrained
 Large Model Extensions*," Principles of Distribution Shifts & First
 Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward,
 ICML 2022.
 
-[\[9\]](https://arxiv.org/abs/2205.08766) **A. Kirsch**, J. Kossen, and
+[\[12\]](https://arxiv.org/abs/2205.08766) **A. Kirsch**, J. Kossen, and
 Y. Gal, "*Marginal and Joint Cross-Entropies & Predictives for Online
 Bayesian Inference, Active Learning, and Active Sampling*," Updatable
 Machine Learning, ICML 2022, 2022.
 
-[\[10\]](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-092.pdf)
+[\[13\]](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-092.pdf)
 **A. Kirsch**, J. Mukhoti, J. van Amersfoort, P. H. Torr, and Y. Gal,
 "*On Pitfalls in OoD Detection: Entropy Considered Harmful*,"
 Uncertainty in Deep Learning, 2021.
 
-[\[11\]](https://arxiv.org/abs/2106.11719) **A. Kirsch**, T. Rainforth,
+[\[14\]](https://arxiv.org/abs/2106.11719) **A. Kirsch**, T. Rainforth,
 and Y. Gal, "*Active Learning under Pool Set Distribution Shift and
 Noisy Data*," SubSetML, 2021.
 
-[\[12\]](https://arxiv.org/abs/2106.12059) **A. Kirsch**<sup>\*</sup>, S.
+[\[15\]](https://arxiv.org/abs/2106.12059) **A. Kirsch**<sup>\*</sup>, S.
 Farquhar<sup>\*</sup>, and Y. Gal, "*A Simple Baseline for Batch Active Learning
 with Stochastic Acquisition Functions*," SubSetML, 2021.
 
-[\[13\]](https://arxiv.org/abs/2106.12062) **A. Kirsch** and Y. Gal, "*A
+[\[16\]](https://arxiv.org/abs/2106.12062) **A. Kirsch** and Y. Gal, "*A
 Practical & Unified Notation for Information-Theoretic Quantities in
 ML*," SubSetML, 2021.
 
-[\[14\]](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-019.pdf)
+[\[17\]](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-019.pdf)
 **A. Kirsch**, C. Lyle, and Y. Gal, "*Scalable Training with Information
 Bottleneck Objectives*," Uncertainty in Deep Learning,
 
-[\[15\]](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-075.pdf)
+[\[18\]](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-075.pdf)
 **A. Kirsch**, C. Lyle, and Y. Gal, "*Learning CIFAR-10 with a Simple
 Entropy Estimator Using Information Bottleneck Objectives*," Uncertainty
 in Deep Learning, 2020.
 
 -----
 
-## 📝 Reviewing
+### 📝 Reviewing
 NeurIPS 2019 (Top Reviewer), AAAI 2020, AAAI 2021, ICLR 2021, NeurIPS 2021 (Outstanding Reviewer), NeurIPS 2022, NeurIPS 2022, TMLR, CVPR 2023.
+
+</details>
 
 -----
 
