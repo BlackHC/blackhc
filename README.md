@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have recently finished my PhD ("DPhil" with [AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning at [OATML](https://oatml.cs.ox.ac.uk/) (at the University of Oxford). Here is my quick online CV 🤗
+I'm currently working at Google DeepMind after a year at the amazing Midjourney. I have recently finished my PhD ("DPhil" with [AIMS CDT](https://aims.robots.ox.ac.uk/)) in Machine Learning at [OATML](https://oatml.cs.ox.ac.uk/) (at the University of Oxford). Here is my quick online CV 🤗
 
 [![https://www.blackhc.net](https://img.shields.io/badge/www.blackhc.net-%231DA1F2.svg?style=flat)](https://www.blackhc.net)</button>
 [![@blackhc](https://img.shields.io/badge/@blackhc-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/@blackhc)
@@ -16,8 +16,15 @@ I have recently finished my PhD ("DPhil" with [AIMS CDT](https://aims.robots.ox.
 
 </summary>
 
+1. ### Research Scientist
+   **Google DeepMind**, _London, UK, Sep 2024 --_
+
+1. ### Research Scientist
+   **Midjourney**, _Remote, Oxford, UK, Sep 2023 -- Sep 2024_
+   Aesthetic Exploration, User Personalization, Data Pipelines, Synthetic Data.
+
 1. ### DPhil Computer Science
-   **University of Oxford**, supervised by Prof Yarin Gal, _Oxford, UK, Oct 2018 -- Summer 2023__  
+   **University of Oxford**, supervised by Prof Yarin Gal, _Oxford, UK, Oct 2018 -- Summer 2023_ 
    Deep active learning and data subset selection using information theory and Bayesian neural networks.
 
 1. ### Research Engineer (Intern)
